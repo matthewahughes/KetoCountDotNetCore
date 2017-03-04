@@ -33,7 +33,8 @@
     "Microsoft.AspNetCore.Authentication.Cookies": "1.1.0",
     "Microsoft.AspNetCore.Diagnostics": "1.1.0",
     "Microsoft.AspNetCore.Mvc": "1.1.1",
-    "Microsoft.AspNetCore.Identity.MongoDB": "1.0.2"
+    "Microsoft.AspNetCore.Identity.MongoDB": "1.0.2",
+    "Syncfusion.EJ.AspNet.Core":  "15.1.33"
   },
 
   "tools": {
